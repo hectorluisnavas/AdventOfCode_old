@@ -14,7 +14,7 @@ def solutionPartOne(data):
     
     print(increase)
 
-# Part One
+# Part Two
 def  solutionPartTwo(data):
     increase = 0
 

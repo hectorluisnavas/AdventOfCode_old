@@ -17,6 +17,7 @@ def solutionPartOne(data):
 
     return power_consumption
 
+# Part Two
 def solutionPartTwo(data):
     o2_data = data.copy()
     co2_data = data.copy()
